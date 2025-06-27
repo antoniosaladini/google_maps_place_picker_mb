@@ -180,10 +180,10 @@ packages:
     dependency: transitive
     description:
       name: google_maps_flutter
-      sha256: e1805e5a5885bd14a1c407c59229f478af169bf4d04388586b19f53145a5db3a
+      sha256: "982c2e22ec78d32701bfbd351311e8579a4952035381ac66462c0af11003107b"
       url: "https://pub.dev"
     source: hosted
-    version: "2.12.3"
+    version: "2.6.0"
   google_maps_flutter_android:
     dependency: transitive
     description:
