@@ -1,0 +1,8 @@
+{
+  "flutter": "stable",
+  "flavors": {
+    "lts": "3.10.0",
+    "main": "stable",
+    "edge": "beta"
+  }
+}
